@@ -1,0 +1,1000 @@
+[2026-01-15 14:00:00.269] [ERROR] Incoming connection from 127.0.0.1.
+[2026-01-15 14:00:00.427] [ERROR] Thread pool reached maximum capacity.
+[2026-01-15 14:00:00.525] [ERROR] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:00:00.791] [DEBUG] User authentication successful.
+[2026-01-15 14:00:01.720] [ERROR] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:00:04.344] [WARN] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:00:04.389] [INFO] Thread pool reached maximum capacity.
+[2026-01-15 14:00:04.449] [ERROR] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:00:05.070] [INFO] Disk I/O latency detected on C: drive.
+[2026-01-15 14:00:05.112] [ERROR] Thread pool reached maximum capacity.
+[2026-01-15 14:00:05.205] [DEBUG] TCP/IP handshake completed.
+[2026-01-15 14:00:05.445] [INFO] Application watchdog heart-beat detected.
+[2026-01-15 14:00:05.820] [ERROR] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:00:06.348] [DEBUG] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:00:06.475] [DEBUG] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:00:06.982] [DEBUG] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:00:07.699] [DEBUG] Application watchdog heart-beat detected.
+[2026-01-15 14:00:07.701] [DEBUG] User authentication successful.
+[2026-01-15 14:00:08.015] [WARN] TCP/IP handshake completed.
+[2026-01-15 14:00:08.133] [DEBUG] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:00:08.198] [DEBUG] Application watchdog heart-beat detected.
+[2026-01-15 14:00:10.990] [ERROR] TCP/IP handshake completed.
+[2026-01-15 14:00:11.342] [INFO] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:00:11.365] [ERROR] Incoming connection from 127.0.0.1.
+[2026-01-15 14:00:11.902] [ERROR] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:00:12.560] [WARN] TCP/IP handshake completed.
+[2026-01-15 14:00:12.568] [ERROR] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:00:13.439] [DEBUG] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:00:13.535] [WARN] TCP/IP handshake completed.
+[2026-01-15 14:00:13.536] [ERROR] Failed to allocate memory for buffer.
+[2026-01-15 14:00:13.963] [INFO] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:00:14.073] [DEBUG] Incoming connection from 127.0.0.1.
+[2026-01-15 14:00:14.247] [ERROR] TCP/IP handshake completed.
+[2026-01-15 14:00:14.339] [DEBUG] Incoming connection from 127.0.0.1.
+[2026-01-15 14:00:15.901] [ERROR] Disk I/O latency detected on C: drive.
+[2026-01-15 14:00:16.607] [ERROR] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:00:16.982] [DEBUG] User authentication successful.
+[2026-01-15 14:00:17.728] [INFO] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:00:18.964] [ERROR] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:00:20.037] [WARN] Incoming connection from 127.0.0.1.
+[2026-01-15 14:00:20.403] [ERROR] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:00:20.482] [DEBUG] TCP/IP handshake completed.
+[2026-01-15 14:00:21.232] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:00:21.552] [WARN] Application watchdog heart-beat detected.
+[2026-01-15 14:00:22.402] [DEBUG] Application watchdog heart-beat detected.
+[2026-01-15 14:00:22.906] [INFO] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:00:22.956] [INFO] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:00:23.482] [INFO] Application watchdog heart-beat detected.
+[2026-01-15 14:00:23.653] [INFO] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:00:23.940] [INFO] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:00:24.076] [INFO] Incoming connection from 127.0.0.1.
+[2026-01-15 14:00:24.231] [WARN] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:00:24.655] [ERROR] User authentication successful.
+[2026-01-15 14:00:24.708] [ERROR] Disk I/O latency detected on C: drive.
+[2026-01-15 14:00:24.866] [DEBUG] Application watchdog heart-beat detected.
+[2026-01-15 14:00:26.058] [INFO] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:00:26.884] [DEBUG] Disk I/O latency detected on C: drive.
+[2026-01-15 14:00:26.897] [DEBUG] Incoming connection from 127.0.0.1.
+[2026-01-15 14:00:26.998] [INFO] Incoming connection from 127.0.0.1.
+[2026-01-15 14:00:27.047] [INFO] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:00:27.504] [ERROR] Disk I/O latency detected on C: drive.
+[2026-01-15 14:00:27.778] [DEBUG] Application watchdog heart-beat detected.
+[2026-01-15 14:00:28.707] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:00:28.862] [WARN] Disk I/O latency detected on C: drive.
+[2026-01-15 14:00:29.607] [DEBUG] Failed to allocate memory for buffer.
+[2026-01-15 14:00:29.853] [DEBUG] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:00:30.603] [WARN] Application watchdog heart-beat detected.
+[2026-01-15 14:00:32.285] [WARN] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:00:32.886] [ERROR] Incoming connection from 127.0.0.1.
+[2026-01-15 14:00:35.762] [ERROR] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:00:38.523] [ERROR] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:00:41.021] [DEBUG] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:00:42.449] [WARN] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:00:43.739] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:00:44.042] [WARN] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:00:44.679] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:00:44.766] [INFO] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:00:45.403] [DEBUG] TCP/IP handshake completed.
+[2026-01-15 14:00:45.911] [ERROR] Thread pool reached maximum capacity.
+[2026-01-15 14:00:46.082] [ERROR] Disk I/O latency detected on C: drive.
+[2026-01-15 14:00:46.683] [WARN] Incoming connection from 127.0.0.1.
+[2026-01-15 14:00:46.797] [WARN] User authentication successful.
+[2026-01-15 14:00:47.181] [INFO] Incoming connection from 127.0.0.1.
+[2026-01-15 14:00:47.470] [DEBUG] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:00:48.403] [ERROR] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:00:49.238] [ERROR] Incoming connection from 127.0.0.1.
+[2026-01-15 14:00:49.781] [DEBUG] TCP/IP handshake completed.
+[2026-01-15 14:00:49.797] [ERROR] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:00:49.844] [ERROR] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:00:50.258] [ERROR] Incoming connection from 127.0.0.1.
+[2026-01-15 14:00:51.676] [WARN] Application watchdog heart-beat detected.
+[2026-01-15 14:00:52.226] [DEBUG] Incoming connection from 127.0.0.1.
+[2026-01-15 14:00:52.693] [ERROR] Disk I/O latency detected on C: drive.
+[2026-01-15 14:00:52.862] [ERROR] User authentication successful.
+[2026-01-15 14:00:54.044] [WARN] TCP/IP handshake completed.
+[2026-01-15 14:00:56.939] [INFO] TCP/IP handshake completed.
+[2026-01-15 14:00:57.930] [ERROR] Incoming connection from 127.0.0.1.
+[2026-01-15 14:00:57.946] [WARN] Application watchdog heart-beat detected.
+[2026-01-15 14:00:59.035] [WARN] User authentication successful.
+[2026-01-15 14:01:00.015] [DEBUG] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:01:00.260] [INFO] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:01:02.054] [ERROR] TCP/IP handshake completed.
+[2026-01-15 14:01:02.526] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:01:02.720] [WARN] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:01:04.421] [ERROR] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:01:04.806] [DEBUG] TCP/IP handshake completed.
+[2026-01-15 14:01:04.950] [ERROR] Disk I/O latency detected on C: drive.
+[2026-01-15 14:01:05.733] [ERROR] Thread pool reached maximum capacity.
+[2026-01-15 14:01:06.871] [ERROR] Application watchdog heart-beat detected.
+[2026-01-15 14:01:07.301] [WARN] Application watchdog heart-beat detected.
+[2026-01-15 14:01:07.488] [WARN] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:01:08.041] [ERROR] Disk I/O latency detected on C: drive.
+[2026-01-15 14:01:08.666] [INFO] Application watchdog heart-beat detected.
+[2026-01-15 14:01:08.763] [DEBUG] Failed to allocate memory for buffer.
+[2026-01-15 14:01:09.464] [ERROR] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:01:09.578] [INFO] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:01:10.941] [ERROR] Failed to allocate memory for buffer.
+[2026-01-15 14:01:12.153] [ERROR] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:01:12.407] [DEBUG] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:01:12.831] [DEBUG] Incoming connection from 127.0.0.1.
+[2026-01-15 14:01:12.911] [ERROR] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:01:15.830] [WARN] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:01:16.070] [ERROR] Thread pool reached maximum capacity.
+[2026-01-15 14:01:16.539] [ERROR] Incoming connection from 127.0.0.1.
+[2026-01-15 14:01:16.574] [INFO] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:01:16.851] [WARN] TCP/IP handshake completed.
+[2026-01-15 14:01:16.889] [INFO] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:01:17.313] [DEBUG] TCP/IP handshake completed.
+[2026-01-15 14:01:17.409] [ERROR] Incoming connection from 127.0.0.1.
+[2026-01-15 14:01:17.558] [ERROR] Disk I/O latency detected on C: drive.
+[2026-01-15 14:01:18.208] [ERROR] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:01:18.437] [INFO] Failed to allocate memory for buffer.
+[2026-01-15 14:01:18.893] [DEBUG] Incoming connection from 127.0.0.1.
+[2026-01-15 14:01:19.186] [DEBUG] Incoming connection from 127.0.0.1.
+[2026-01-15 14:01:19.331] [WARN] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:01:19.699] [ERROR] TCP/IP handshake completed.
+[2026-01-15 14:01:20.172] [WARN] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:01:21.584] [INFO] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:01:22.238] [WARN] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:01:23.298] [INFO] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:01:23.683] [INFO] Thread pool reached maximum capacity.
+[2026-01-15 14:01:26.756] [ERROR] Thread pool reached maximum capacity.
+[2026-01-15 14:01:26.929] [ERROR] Disk I/O latency detected on C: drive.
+[2026-01-15 14:01:28.471] [DEBUG] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:01:28.579] [WARN] Failed to allocate memory for buffer.
+[2026-01-15 14:01:30.022] [INFO] Failed to allocate memory for buffer.
+[2026-01-15 14:01:30.699] [WARN] Disk I/O latency detected on C: drive.
+[2026-01-15 14:01:31.149] [WARN] TCP/IP handshake completed.
+[2026-01-15 14:01:31.430] [INFO] Incoming connection from 127.0.0.1.
+[2026-01-15 14:01:32.224] [ERROR] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:01:32.358] [ERROR] Disk I/O latency detected on C: drive.
+[2026-01-15 14:01:32.764] [DEBUG] Disk I/O latency detected on C: drive.
+[2026-01-15 14:01:32.857] [ERROR] User authentication successful.
+[2026-01-15 14:01:33.053] [ERROR] Disk I/O latency detected on C: drive.
+[2026-01-15 14:01:33.255] [INFO] Incoming connection from 127.0.0.1.
+[2026-01-15 14:01:33.348] [WARN] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:01:36.330] [WARN] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:01:36.527] [INFO] Thread pool reached maximum capacity.
+[2026-01-15 14:01:36.985] [INFO] TCP/IP handshake completed.
+[2026-01-15 14:01:37.085] [DEBUG] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:01:37.562] [DEBUG] Failed to allocate memory for buffer.
+[2026-01-15 14:01:37.722] [WARN] Application watchdog heart-beat detected.
+[2026-01-15 14:01:37.797] [INFO] Failed to allocate memory for buffer.
+[2026-01-15 14:01:38.533] [DEBUG] Disk I/O latency detected on C: drive.
+[2026-01-15 14:01:38.655] [DEBUG] Application watchdog heart-beat detected.
+[2026-01-15 14:01:38.804] [ERROR] Application watchdog heart-beat detected.
+[2026-01-15 14:01:39.074] [INFO] Failed to allocate memory for buffer.
+[2026-01-15 14:01:40.148] [INFO] Disk I/O latency detected on C: drive.
+[2026-01-15 14:01:40.768] [WARN] Failed to allocate memory for buffer.
+[2026-01-15 14:01:42.072] [ERROR] Failed to allocate memory for buffer.
+[2026-01-15 14:01:42.588] [INFO] Application watchdog heart-beat detected.
+[2026-01-15 14:01:42.758] [INFO] Incoming connection from 127.0.0.1.
+[2026-01-15 14:01:45.074] [DEBUG] Application watchdog heart-beat detected.
+[2026-01-15 14:01:45.776] [INFO] Incoming connection from 127.0.0.1.
+[2026-01-15 14:01:46.247] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:01:46.332] [WARN] Disk I/O latency detected on C: drive.
+[2026-01-15 14:01:46.948] [WARN] TCP/IP handshake completed.
+[2026-01-15 14:01:47.379] [INFO] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:01:47.469] [DEBUG] User authentication successful.
+[2026-01-15 14:01:50.359] [ERROR] Thread pool reached maximum capacity.
+[2026-01-15 14:01:53.124] [INFO] Incoming connection from 127.0.0.1.
+[2026-01-15 14:01:54.487] [INFO] Failed to allocate memory for buffer.
+[2026-01-15 14:01:54.644] [ERROR] TCP/IP handshake completed.
+[2026-01-15 14:01:55.174] [INFO] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:01:55.501] [INFO] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:01:55.966] [INFO] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:01:56.213] [WARN] Thread pool reached maximum capacity.
+[2026-01-15 14:01:56.973] [DEBUG] Failed to allocate memory for buffer.
+[2026-01-15 14:01:57.218] [ERROR] Disk I/O latency detected on C: drive.
+[2026-01-15 14:01:57.477] [WARN] Incoming connection from 127.0.0.1.
+[2026-01-15 14:01:57.587] [DEBUG] Disk I/O latency detected on C: drive.
+[2026-01-15 14:01:57.610] [WARN] Application watchdog heart-beat detected.
+[2026-01-15 14:01:58.378] [DEBUG] Incoming connection from 127.0.0.1.
+[2026-01-15 14:01:58.616] [WARN] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:01:59.346] [ERROR] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:02:00.201] [WARN] Disk I/O latency detected on C: drive.
+[2026-01-15 14:02:00.494] [INFO] Disk I/O latency detected on C: drive.
+[2026-01-15 14:02:00.502] [DEBUG] Application watchdog heart-beat detected.
+[2026-01-15 14:02:00.947] [DEBUG] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:02:02.220] [DEBUG] Application watchdog heart-beat detected.
+[2026-01-15 14:02:03.375] [INFO] Incoming connection from 127.0.0.1.
+[2026-01-15 14:02:03.661] [ERROR] Incoming connection from 127.0.0.1.
+[2026-01-15 14:02:04.048] [INFO] Thread pool reached maximum capacity.
+[2026-01-15 14:02:05.234] [WARN] Failed to allocate memory for buffer.
+[2026-01-15 14:02:06.200] [WARN] Incoming connection from 127.0.0.1.
+[2026-01-15 14:02:06.551] [ERROR] User authentication successful.
+[2026-01-15 14:02:07.892] [WARN] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:02:08.074] [WARN] Incoming connection from 127.0.0.1.
+[2026-01-15 14:02:08.580] [ERROR] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:02:08.595] [ERROR] Failed to allocate memory for buffer.
+[2026-01-15 14:02:08.919] [INFO] Disk I/O latency detected on C: drive.
+[2026-01-15 14:02:08.971] [INFO] Application watchdog heart-beat detected.
+[2026-01-15 14:02:09.594] [WARN] TCP/IP handshake completed.
+[2026-01-15 14:02:10.214] [DEBUG] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:02:10.620] [DEBUG] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:02:10.784] [ERROR] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:02:11.045] [DEBUG] Incoming connection from 127.0.0.1.
+[2026-01-15 14:02:12.136] [INFO] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:02:12.628] [INFO] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:02:13.569] [ERROR] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:02:13.629] [ERROR] Incoming connection from 127.0.0.1.
+[2026-01-15 14:02:16.027] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:02:16.524] [ERROR] Thread pool reached maximum capacity.
+[2026-01-15 14:02:18.214] [WARN] TCP/IP handshake completed.
+[2026-01-15 14:02:19.373] [DEBUG] Disk I/O latency detected on C: drive.
+[2026-01-15 14:02:20.266] [WARN] Disk I/O latency detected on C: drive.
+[2026-01-15 14:02:20.344] [ERROR] Incoming connection from 127.0.0.1.
+[2026-01-15 14:02:20.970] [INFO] Incoming connection from 127.0.0.1.
+[2026-01-15 14:02:21.101] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:02:21.461] [DEBUG] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:02:21.592] [WARN] Incoming connection from 127.0.0.1.
+[2026-01-15 14:02:21.728] [DEBUG] TCP/IP handshake completed.
+[2026-01-15 14:02:22.014] [INFO] Thread pool reached maximum capacity.
+[2026-01-15 14:02:22.263] [WARN] User authentication successful.
+[2026-01-15 14:02:24.003] [DEBUG] Failed to allocate memory for buffer.
+[2026-01-15 14:02:24.462] [WARN] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:02:26.783] [WARN] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:02:27.367] [DEBUG] Disk I/O latency detected on C: drive.
+[2026-01-15 14:02:27.562] [INFO] TCP/IP handshake completed.
+[2026-01-15 14:02:27.725] [DEBUG] Failed to allocate memory for buffer.
+[2026-01-15 14:02:28.300] [ERROR] Failed to allocate memory for buffer.
+[2026-01-15 14:02:28.501] [DEBUG] Application watchdog heart-beat detected.
+[2026-01-15 14:02:28.756] [INFO] Disk I/O latency detected on C: drive.
+[2026-01-15 14:02:29.296] [ERROR] Incoming connection from 127.0.0.1.
+[2026-01-15 14:02:30.129] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:02:30.621] [WARN] Application watchdog heart-beat detected.
+[2026-01-15 14:02:31.609] [ERROR] TCP/IP handshake completed.
+[2026-01-15 14:02:31.974] [ERROR] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:02:32.750] [INFO] User authentication successful.
+[2026-01-15 14:02:32.751] [DEBUG] Application watchdog heart-beat detected.
+[2026-01-15 14:02:32.789] [DEBUG] User authentication successful.
+[2026-01-15 14:02:32.965] [INFO] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:02:34.272] [DEBUG] Application watchdog heart-beat detected.
+[2026-01-15 14:02:34.451] [ERROR] User authentication successful.
+[2026-01-15 14:02:36.522] [DEBUG] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:02:36.808] [INFO] Application watchdog heart-beat detected.
+[2026-01-15 14:02:37.510] [ERROR] Incoming connection from 127.0.0.1.
+[2026-01-15 14:02:37.911] [ERROR] TCP/IP handshake completed.
+[2026-01-15 14:02:38.970] [WARN] Incoming connection from 127.0.0.1.
+[2026-01-15 14:02:39.021] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:02:39.142] [INFO] Incoming connection from 127.0.0.1.
+[2026-01-15 14:02:39.904] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:02:40.593] [DEBUG] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:02:40.609] [ERROR] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:02:40.610] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:02:40.717] [ERROR] TCP/IP handshake completed.
+[2026-01-15 14:02:40.831] [INFO] Application watchdog heart-beat detected.
+[2026-01-15 14:02:41.426] [WARN] TCP/IP handshake completed.
+[2026-01-15 14:02:42.326] [DEBUG] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:02:42.415] [ERROR] Application watchdog heart-beat detected.
+[2026-01-15 14:02:44.442] [WARN] User authentication successful.
+[2026-01-15 14:02:45.854] [WARN] TCP/IP handshake completed.
+[2026-01-15 14:02:48.720] [WARN] Application watchdog heart-beat detected.
+[2026-01-15 14:02:49.065] [ERROR] Disk I/O latency detected on C: drive.
+[2026-01-15 14:02:51.397] [INFO] Application watchdog heart-beat detected.
+[2026-01-15 14:02:51.434] [INFO] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:02:54.313] [INFO] Disk I/O latency detected on C: drive.
+[2026-01-15 14:02:56.087] [DEBUG] User authentication successful.
+[2026-01-15 14:02:57.276] [INFO] Disk I/O latency detected on C: drive.
+[2026-01-15 14:02:57.774] [WARN] Incoming connection from 127.0.0.1.
+[2026-01-15 14:02:57.930] [DEBUG] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:02:58.700] [ERROR] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:02:58.746] [INFO] Incoming connection from 127.0.0.1.
+[2026-01-15 14:02:58.747] [DEBUG] Failed to allocate memory for buffer.
+[2026-01-15 14:02:58.928] [WARN] Failed to allocate memory for buffer.
+[2026-01-15 14:02:59.137] [DEBUG] Incoming connection from 127.0.0.1.
+[2026-01-15 14:02:59.654] [INFO] TCP/IP handshake completed.
+[2026-01-15 14:03:00.648] [INFO] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:03:01.366] [DEBUG] Disk I/O latency detected on C: drive.
+[2026-01-15 14:03:01.787] [DEBUG] User authentication successful.
+[2026-01-15 14:03:01.849] [ERROR] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:03:03.189] [WARN] Failed to allocate memory for buffer.
+[2026-01-15 14:03:03.379] [WARN] Failed to allocate memory for buffer.
+[2026-01-15 14:03:03.409] [INFO] TCP/IP handshake completed.
+[2026-01-15 14:03:06.420] [DEBUG] Incoming connection from 127.0.0.1.
+[2026-01-15 14:03:06.520] [INFO] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:03:07.756] [ERROR] Thread pool reached maximum capacity.
+[2026-01-15 14:03:08.213] [INFO] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:03:09.239] [DEBUG] Failed to allocate memory for buffer.
+[2026-01-15 14:03:09.517] [INFO] TCP/IP handshake completed.
+[2026-01-15 14:03:10.599] [INFO] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:03:10.661] [DEBUG] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:03:10.958] [INFO] Incoming connection from 127.0.0.1.
+[2026-01-15 14:03:11.506] [DEBUG] TCP/IP handshake completed.
+[2026-01-15 14:03:12.629] [ERROR] Application watchdog heart-beat detected.
+[2026-01-15 14:03:13.088] [INFO] TCP/IP handshake completed.
+[2026-01-15 14:03:13.175] [ERROR] Application watchdog heart-beat detected.
+[2026-01-15 14:03:13.236] [WARN] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:03:14.778] [ERROR] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:03:14.973] [DEBUG] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:03:15.100] [WARN] Failed to allocate memory for buffer.
+[2026-01-15 14:03:15.556] [DEBUG] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:03:16.430] [INFO] Thread pool reached maximum capacity.
+[2026-01-15 14:03:17.578] [WARN] Incoming connection from 127.0.0.1.
+[2026-01-15 14:03:19.500] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:03:19.884] [WARN] TCP/IP handshake completed.
+[2026-01-15 14:03:20.225] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:03:20.646] [INFO] Failed to allocate memory for buffer.
+[2026-01-15 14:03:21.223] [DEBUG] Application watchdog heart-beat detected.
+[2026-01-15 14:03:21.390] [INFO] Failed to allocate memory for buffer.
+[2026-01-15 14:03:22.987] [INFO] User authentication successful.
+[2026-01-15 14:03:23.182] [ERROR] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:03:23.475] [DEBUG] Failed to allocate memory for buffer.
+[2026-01-15 14:03:23.499] [WARN] Thread pool reached maximum capacity.
+[2026-01-15 14:03:24.322] [INFO] User authentication successful.
+[2026-01-15 14:03:24.501] [DEBUG] User authentication successful.
+[2026-01-15 14:03:25.133] [INFO] Disk I/O latency detected on C: drive.
+[2026-01-15 14:03:26.419] [ERROR] Incoming connection from 127.0.0.1.
+[2026-01-15 14:03:26.573] [WARN] Thread pool reached maximum capacity.
+[2026-01-15 14:03:27.457] [DEBUG] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:03:28.437] [INFO] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:03:28.472] [ERROR] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:03:29.991] [INFO] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:03:30.877] [INFO] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:03:31.339] [ERROR] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:03:31.422] [ERROR] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:03:31.706] [INFO] Thread pool reached maximum capacity.
+[2026-01-15 14:03:32.334] [DEBUG] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:03:32.503] [INFO] Failed to allocate memory for buffer.
+[2026-01-15 14:03:32.640] [DEBUG] Failed to allocate memory for buffer.
+[2026-01-15 14:03:32.775] [ERROR] TCP/IP handshake completed.
+[2026-01-15 14:03:33.806] [ERROR] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:03:33.927] [DEBUG] TCP/IP handshake completed.
+[2026-01-15 14:03:34.284] [WARN] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:03:34.817] [INFO] Failed to allocate memory for buffer.
+[2026-01-15 14:03:36.580] [INFO] Incoming connection from 127.0.0.1.
+[2026-01-15 14:03:36.618] [WARN] Thread pool reached maximum capacity.
+[2026-01-15 14:03:36.937] [DEBUG] Application watchdog heart-beat detected.
+[2026-01-15 14:03:37.769] [WARN] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:03:38.134] [ERROR] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:03:38.340] [WARN] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:03:38.514] [WARN] Application watchdog heart-beat detected.
+[2026-01-15 14:03:38.836] [INFO] Incoming connection from 127.0.0.1.
+[2026-01-15 14:03:38.959] [INFO] TCP/IP handshake completed.
+[2026-01-15 14:03:41.102] [DEBUG] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:03:42.609] [INFO] Thread pool reached maximum capacity.
+[2026-01-15 14:03:43.150] [DEBUG] Failed to allocate memory for buffer.
+[2026-01-15 14:03:43.517] [WARN] Application watchdog heart-beat detected.
+[2026-01-15 14:03:43.958] [WARN] Thread pool reached maximum capacity.
+[2026-01-15 14:03:44.126] [ERROR] Thread pool reached maximum capacity.
+[2026-01-15 14:03:44.217] [INFO] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:03:44.232] [DEBUG] TCP/IP handshake completed.
+[2026-01-15 14:03:44.422] [ERROR] Failed to allocate memory for buffer.
+[2026-01-15 14:03:44.609] [DEBUG] Disk I/O latency detected on C: drive.
+[2026-01-15 14:03:45.058] [WARN] Application watchdog heart-beat detected.
+[2026-01-15 14:03:45.766] [INFO] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:03:45.842] [ERROR] User authentication successful.
+[2026-01-15 14:03:46.974] [INFO] Disk I/O latency detected on C: drive.
+[2026-01-15 14:03:48.319] [ERROR] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:03:48.625] [INFO] Thread pool reached maximum capacity.
+[2026-01-15 14:03:48.963] [ERROR] Thread pool reached maximum capacity.
+[2026-01-15 14:03:50.435] [DEBUG] Application watchdog heart-beat detected.
+[2026-01-15 14:03:50.982] [INFO] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:03:51.390] [INFO] Incoming connection from 127.0.0.1.
+[2026-01-15 14:03:51.513] [WARN] Application watchdog heart-beat detected.
+[2026-01-15 14:03:51.607] [DEBUG] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:03:51.886] [DEBUG] Application watchdog heart-beat detected.
+[2026-01-15 14:03:52.565] [ERROR] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:03:52.931] [DEBUG] Disk I/O latency detected on C: drive.
+[2026-01-15 14:03:53.505] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:03:53.655] [DEBUG] TCP/IP handshake completed.
+[2026-01-15 14:03:53.719] [ERROR] TCP/IP handshake completed.
+[2026-01-15 14:03:54.280] [DEBUG] Failed to allocate memory for buffer.
+[2026-01-15 14:03:54.934] [ERROR] TCP/IP handshake completed.
+[2026-01-15 14:03:55.642] [DEBUG] Failed to allocate memory for buffer.
+[2026-01-15 14:03:56.104] [DEBUG] TCP/IP handshake completed.
+[2026-01-15 14:03:56.106] [WARN] Thread pool reached maximum capacity.
+[2026-01-15 14:03:56.408] [INFO] TCP/IP handshake completed.
+[2026-01-15 14:03:56.499] [ERROR] Application watchdog heart-beat detected.
+[2026-01-15 14:03:57.379] [ERROR] User authentication successful.
+[2026-01-15 14:03:57.507] [DEBUG] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:03:59.846] [INFO] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:04:00.430] [INFO] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:04:00.714] [WARN] Disk I/O latency detected on C: drive.
+[2026-01-15 14:04:02.378] [DEBUG] TCP/IP handshake completed.
+[2026-01-15 14:04:02.435] [ERROR] Incoming connection from 127.0.0.1.
+[2026-01-15 14:04:03.477] [INFO] Application watchdog heart-beat detected.
+[2026-01-15 14:04:05.104] [ERROR] Incoming connection from 127.0.0.1.
+[2026-01-15 14:04:05.194] [WARN] Thread pool reached maximum capacity.
+[2026-01-15 14:04:06.175] [WARN] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:04:07.078] [DEBUG] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:04:08.107] [DEBUG] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:04:09.297] [DEBUG] Incoming connection from 127.0.0.1.
+[2026-01-15 14:04:09.877] [INFO] Failed to allocate memory for buffer.
+[2026-01-15 14:04:11.991] [DEBUG] Application watchdog heart-beat detected.
+[2026-01-15 14:04:13.835] [WARN] Thread pool reached maximum capacity.
+[2026-01-15 14:04:14.062] [ERROR] Thread pool reached maximum capacity.
+[2026-01-15 14:04:14.243] [DEBUG] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:04:14.267] [ERROR] Application watchdog heart-beat detected.
+[2026-01-15 14:04:14.442] [DEBUG] User authentication successful.
+[2026-01-15 14:04:14.469] [WARN] Incoming connection from 127.0.0.1.
+[2026-01-15 14:04:15.374] [ERROR] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:04:15.913] [ERROR] Application watchdog heart-beat detected.
+[2026-01-15 14:04:16.078] [WARN] Disk I/O latency detected on C: drive.
+[2026-01-15 14:04:16.269] [INFO] Incoming connection from 127.0.0.1.
+[2026-01-15 14:04:18.278] [ERROR] User authentication successful.
+[2026-01-15 14:04:18.640] [DEBUG] User authentication successful.
+[2026-01-15 14:04:18.970] [DEBUG] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:04:19.794] [INFO] Thread pool reached maximum capacity.
+[2026-01-15 14:04:20.597] [DEBUG] Application watchdog heart-beat detected.
+[2026-01-15 14:04:21.651] [INFO] Disk I/O latency detected on C: drive.
+[2026-01-15 14:04:22.166] [ERROR] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:04:25.285] [INFO] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:04:26.571] [DEBUG] Incoming connection from 127.0.0.1.
+[2026-01-15 14:04:27.376] [INFO] Failed to allocate memory for buffer.
+[2026-01-15 14:04:27.686] [WARN] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:04:28.016] [WARN] Disk I/O latency detected on C: drive.
+[2026-01-15 14:04:28.257] [ERROR] Thread pool reached maximum capacity.
+[2026-01-15 14:04:28.374] [WARN] Failed to allocate memory for buffer.
+[2026-01-15 14:04:28.428] [INFO] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:04:28.706] [WARN] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:04:31.160] [DEBUG] Disk I/O latency detected on C: drive.
+[2026-01-15 14:04:31.528] [WARN] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:04:32.916] [WARN] Failed to allocate memory for buffer.
+[2026-01-15 14:04:34.329] [ERROR] Thread pool reached maximum capacity.
+[2026-01-15 14:04:34.432] [INFO] Disk I/O latency detected on C: drive.
+[2026-01-15 14:04:34.575] [DEBUG] TCP/IP handshake completed.
+[2026-01-15 14:04:36.109] [DEBUG] Disk I/O latency detected on C: drive.
+[2026-01-15 14:04:36.329] [ERROR] TCP/IP handshake completed.
+[2026-01-15 14:04:37.127] [ERROR] Application watchdog heart-beat detected.
+[2026-01-15 14:04:37.150] [WARN] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:04:37.444] [WARN] Incoming connection from 127.0.0.1.
+[2026-01-15 14:04:38.049] [WARN] Incoming connection from 127.0.0.1.
+[2026-01-15 14:04:38.076] [WARN] Incoming connection from 127.0.0.1.
+[2026-01-15 14:04:38.313] [INFO] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:04:38.425] [DEBUG] Disk I/O latency detected on C: drive.
+[2026-01-15 14:04:39.305] [DEBUG] Application watchdog heart-beat detected.
+[2026-01-15 14:04:39.408] [WARN] User authentication successful.
+[2026-01-15 14:04:39.703] [ERROR] Disk I/O latency detected on C: drive.
+[2026-01-15 14:04:39.733] [INFO] Incoming connection from 127.0.0.1.
+[2026-01-15 14:04:40.249] [ERROR] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:04:40.534] [WARN] TCP/IP handshake completed.
+[2026-01-15 14:04:40.614] [DEBUG] User authentication successful.
+[2026-01-15 14:04:41.330] [DEBUG] Failed to allocate memory for buffer.
+[2026-01-15 14:04:41.403] [DEBUG] Failed to allocate memory for buffer.
+[2026-01-15 14:04:41.555] [INFO] Failed to allocate memory for buffer.
+[2026-01-15 14:04:42.226] [WARN] Application watchdog heart-beat detected.
+[2026-01-15 14:04:43.044] [INFO] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:04:43.726] [DEBUG] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:04:43.917] [WARN] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:04:44.382] [INFO] Application watchdog heart-beat detected.
+[2026-01-15 14:04:44.472] [ERROR] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:04:45.161] [INFO] Incoming connection from 127.0.0.1.
+[2026-01-15 14:04:45.851] [DEBUG] Disk I/O latency detected on C: drive.
+[2026-01-15 14:04:46.025] [DEBUG] TCP/IP handshake completed.
+[2026-01-15 14:04:46.923] [INFO] TCP/IP handshake completed.
+[2026-01-15 14:04:47.271] [DEBUG] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:04:47.814] [WARN] TCP/IP handshake completed.
+[2026-01-15 14:04:48.328] [ERROR] User authentication successful.
+[2026-01-15 14:04:48.709] [ERROR] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:04:48.865] [WARN] Incoming connection from 127.0.0.1.
+[2026-01-15 14:04:49.187] [WARN] Incoming connection from 127.0.0.1.
+[2026-01-15 14:04:50.834] [DEBUG] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:04:51.523] [WARN] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:04:51.811] [ERROR] TCP/IP handshake completed.
+[2026-01-15 14:04:52.510] [INFO] Thread pool reached maximum capacity.
+[2026-01-15 14:04:53.156] [INFO] Failed to allocate memory for buffer.
+[2026-01-15 14:04:53.407] [INFO] Disk I/O latency detected on C: drive.
+[2026-01-15 14:04:54.081] [INFO] Disk I/O latency detected on C: drive.
+[2026-01-15 14:04:54.729] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:04:54.729] [ERROR] Disk I/O latency detected on C: drive.
+[2026-01-15 14:04:54.977] [DEBUG] Disk I/O latency detected on C: drive.
+[2026-01-15 14:04:55.366] [INFO] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:04:56.189] [ERROR] Disk I/O latency detected on C: drive.
+[2026-01-15 14:04:56.226] [WARN] Incoming connection from 127.0.0.1.
+[2026-01-15 14:04:56.266] [DEBUG] Failed to allocate memory for buffer.
+[2026-01-15 14:04:56.707] [WARN] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:04:56.936] [INFO] TCP/IP handshake completed.
+[2026-01-15 14:04:56.984] [INFO] Thread pool reached maximum capacity.
+[2026-01-15 14:04:57.145] [ERROR] Incoming connection from 127.0.0.1.
+[2026-01-15 14:04:57.592] [DEBUG] Incoming connection from 127.0.0.1.
+[2026-01-15 14:04:57.638] [ERROR] Application watchdog heart-beat detected.
+[2026-01-15 14:04:58.204] [ERROR] Disk I/O latency detected on C: drive.
+[2026-01-15 14:04:59.078] [ERROR] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:04:59.225] [INFO] Incoming connection from 127.0.0.1.
+[2026-01-15 14:05:00.589] [ERROR] TCP/IP handshake completed.
+[2026-01-15 14:05:00.639] [ERROR] Application watchdog heart-beat detected.
+[2026-01-15 14:05:00.783] [WARN] User authentication successful.
+[2026-01-15 14:05:00.945] [INFO] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:05:01.358] [INFO] Application watchdog heart-beat detected.
+[2026-01-15 14:05:02.479] [ERROR] Incoming connection from 127.0.0.1.
+[2026-01-15 14:05:02.799] [ERROR] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:05:03.363] [ERROR] TCP/IP handshake completed.
+[2026-01-15 14:05:03.622] [DEBUG] User authentication successful.
+[2026-01-15 14:05:05.337] [DEBUG] TCP/IP handshake completed.
+[2026-01-15 14:05:05.694] [DEBUG] Incoming connection from 127.0.0.1.
+[2026-01-15 14:05:06.872] [DEBUG] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:05:07.023] [ERROR] Disk I/O latency detected on C: drive.
+[2026-01-15 14:05:07.533] [ERROR] Failed to allocate memory for buffer.
+[2026-01-15 14:05:09.764] [DEBUG] User authentication successful.
+[2026-01-15 14:05:10.829] [DEBUG] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:05:11.992] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:05:13.283] [DEBUG] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:05:13.824] [DEBUG] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:05:13.912] [INFO] Failed to allocate memory for buffer.
+[2026-01-15 14:05:14.928] [ERROR] Disk I/O latency detected on C: drive.
+[2026-01-15 14:05:14.951] [INFO] TCP/IP handshake completed.
+[2026-01-15 14:05:15.371] [WARN] Application watchdog heart-beat detected.
+[2026-01-15 14:05:16.321] [WARN] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:05:16.605] [INFO] TCP/IP handshake completed.
+[2026-01-15 14:05:16.963] [DEBUG] Application watchdog heart-beat detected.
+[2026-01-15 14:05:17.660] [WARN] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:05:17.966] [WARN] Incoming connection from 127.0.0.1.
+[2026-01-15 14:05:18.571] [WARN] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:05:18.915] [ERROR] User authentication successful.
+[2026-01-15 14:05:19.878] [ERROR] Failed to allocate memory for buffer.
+[2026-01-15 14:05:19.941] [DEBUG] User authentication successful.
+[2026-01-15 14:05:20.034] [DEBUG] TCP/IP handshake completed.
+[2026-01-15 14:05:20.277] [ERROR] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:05:20.423] [INFO] Disk I/O latency detected on C: drive.
+[2026-01-15 14:05:21.857] [ERROR] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:05:22.961] [WARN] Disk I/O latency detected on C: drive.
+[2026-01-15 14:05:23.954] [INFO] Disk I/O latency detected on C: drive.
+[2026-01-15 14:05:24.875] [INFO] Incoming connection from 127.0.0.1.
+[2026-01-15 14:05:26.247] [WARN] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:05:27.141] [ERROR] User authentication successful.
+[2026-01-15 14:05:27.381] [DEBUG] Failed to allocate memory for buffer.
+[2026-01-15 14:05:27.402] [INFO] Incoming connection from 127.0.0.1.
+[2026-01-15 14:05:27.561] [WARN] TCP/IP handshake completed.
+[2026-01-15 14:05:28.011] [INFO] TCP/IP handshake completed.
+[2026-01-15 14:05:28.720] [INFO] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:05:29.654] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:05:29.778] [INFO] Disk I/O latency detected on C: drive.
+[2026-01-15 14:05:30.043] [DEBUG] Incoming connection from 127.0.0.1.
+[2026-01-15 14:05:30.263] [WARN] TCP/IP handshake completed.
+[2026-01-15 14:05:30.669] [DEBUG] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:05:31.368] [WARN] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:05:31.722] [DEBUG] Disk I/O latency detected on C: drive.
+[2026-01-15 14:05:31.954] [ERROR] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:05:32.194] [ERROR] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:05:32.479] [ERROR] Application watchdog heart-beat detected.
+[2026-01-15 14:05:34.120] [INFO] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:05:34.196] [WARN] TCP/IP handshake completed.
+[2026-01-15 14:05:34.665] [INFO] TCP/IP handshake completed.
+[2026-01-15 14:05:35.055] [WARN] Disk I/O latency detected on C: drive.
+[2026-01-15 14:05:35.381] [ERROR] Application watchdog heart-beat detected.
+[2026-01-15 14:05:36.539] [ERROR] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:05:36.541] [DEBUG] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:05:36.661] [ERROR] TCP/IP handshake completed.
+[2026-01-15 14:05:36.845] [WARN] Application watchdog heart-beat detected.
+[2026-01-15 14:05:37.311] [WARN] Incoming connection from 127.0.0.1.
+[2026-01-15 14:05:37.612] [ERROR] Thread pool reached maximum capacity.
+[2026-01-15 14:05:37.999] [WARN] Failed to allocate memory for buffer.
+[2026-01-15 14:05:38.627] [WARN] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:05:39.112] [DEBUG] TCP/IP handshake completed.
+[2026-01-15 14:05:40.166] [ERROR] Thread pool reached maximum capacity.
+[2026-01-15 14:05:40.336] [ERROR] Thread pool reached maximum capacity.
+[2026-01-15 14:05:41.033] [WARN] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:05:41.218] [WARN] User authentication successful.
+[2026-01-15 14:05:41.781] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:05:43.283] [INFO] Failed to allocate memory for buffer.
+[2026-01-15 14:05:43.430] [DEBUG] Failed to allocate memory for buffer.
+[2026-01-15 14:05:43.526] [ERROR] Application watchdog heart-beat detected.
+[2026-01-15 14:05:43.526] [WARN] Disk I/O latency detected on C: drive.
+[2026-01-15 14:05:43.544] [ERROR] Disk I/O latency detected on C: drive.
+[2026-01-15 14:05:43.974] [ERROR] Thread pool reached maximum capacity.
+[2026-01-15 14:05:45.131] [WARN] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:05:45.246] [INFO] Application watchdog heart-beat detected.
+[2026-01-15 14:05:45.694] [INFO] Disk I/O latency detected on C: drive.
+[2026-01-15 14:05:45.835] [ERROR] Disk I/O latency detected on C: drive.
+[2026-01-15 14:05:46.710] [WARN] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:05:47.190] [INFO] Thread pool reached maximum capacity.
+[2026-01-15 14:05:47.846] [DEBUG] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:05:48.655] [INFO] User authentication successful.
+[2026-01-15 14:05:48.992] [INFO] Thread pool reached maximum capacity.
+[2026-01-15 14:05:49.435] [DEBUG] Failed to allocate memory for buffer.
+[2026-01-15 14:05:50.207] [WARN] User authentication successful.
+[2026-01-15 14:05:50.349] [INFO] Disk I/O latency detected on C: drive.
+[2026-01-15 14:05:50.589] [INFO] Incoming connection from 127.0.0.1.
+[2026-01-15 14:05:50.852] [DEBUG] TCP/IP handshake completed.
+[2026-01-15 14:05:50.983] [WARN] Failed to allocate memory for buffer.
+[2026-01-15 14:05:55.766] [INFO] Failed to allocate memory for buffer.
+[2026-01-15 14:05:55.967] [ERROR] Application watchdog heart-beat detected.
+[2026-01-15 14:05:57.683] [WARN] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:05:58.428] [DEBUG] Incoming connection from 127.0.0.1.
+[2026-01-15 14:05:59.958] [ERROR] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:06:00.069] [ERROR] Incoming connection from 127.0.0.1.
+[2026-01-15 14:06:01.384] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:06:01.752] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:06:03.388] [INFO] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:06:04.558] [DEBUG] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:06:05.097] [DEBUG] Disk I/O latency detected on C: drive.
+[2026-01-15 14:06:05.228] [DEBUG] Application watchdog heart-beat detected.
+[2026-01-15 14:06:05.306] [DEBUG] Disk I/O latency detected on C: drive.
+[2026-01-15 14:06:06.464] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:06:06.631] [ERROR] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:06:08.675] [INFO] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:06:09.475] [ERROR] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:06:09.618] [ERROR] Disk I/O latency detected on C: drive.
+[2026-01-15 14:06:09.734] [DEBUG] Disk I/O latency detected on C: drive.
+[2026-01-15 14:06:10.566] [ERROR] Thread pool reached maximum capacity.
+[2026-01-15 14:06:10.689] [ERROR] User authentication successful.
+[2026-01-15 14:06:11.344] [WARN] Incoming connection from 127.0.0.1.
+[2026-01-15 14:06:12.417] [INFO] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:06:12.715] [INFO] Disk I/O latency detected on C: drive.
+[2026-01-15 14:06:13.128] [ERROR] Disk I/O latency detected on C: drive.
+[2026-01-15 14:06:13.351] [INFO] User authentication successful.
+[2026-01-15 14:06:14.252] [DEBUG] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:06:14.329] [INFO] Disk I/O latency detected on C: drive.
+[2026-01-15 14:06:15.536] [WARN] Application watchdog heart-beat detected.
+[2026-01-15 14:06:16.320] [WARN] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:06:16.444] [INFO] Disk I/O latency detected on C: drive.
+[2026-01-15 14:06:17.679] [ERROR] Incoming connection from 127.0.0.1.
+[2026-01-15 14:06:18.047] [DEBUG] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:06:18.100] [ERROR] User authentication successful.
+[2026-01-15 14:06:18.124] [ERROR] Disk I/O latency detected on C: drive.
+[2026-01-15 14:06:19.274] [INFO] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:06:19.387] [ERROR] Application watchdog heart-beat detected.
+[2026-01-15 14:06:19.496] [INFO] Incoming connection from 127.0.0.1.
+[2026-01-15 14:06:19.821] [WARN] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:06:19.996] [ERROR] User authentication successful.
+[2026-01-15 14:06:20.074] [WARN] Incoming connection from 127.0.0.1.
+[2026-01-15 14:06:20.332] [ERROR] Disk I/O latency detected on C: drive.
+[2026-01-15 14:06:20.794] [ERROR] User authentication successful.
+[2026-01-15 14:06:21.456] [INFO] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:06:22.034] [INFO] User authentication successful.
+[2026-01-15 14:06:22.565] [ERROR] User authentication successful.
+[2026-01-15 14:06:22.900] [WARN] Application watchdog heart-beat detected.
+[2026-01-15 14:06:22.957] [ERROR] Disk I/O latency detected on C: drive.
+[2026-01-15 14:06:22.975] [WARN] TCP/IP handshake completed.
+[2026-01-15 14:06:23.420] [ERROR] Disk I/O latency detected on C: drive.
+[2026-01-15 14:06:23.752] [INFO] Thread pool reached maximum capacity.
+[2026-01-15 14:06:25.121] [INFO] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:06:25.554] [ERROR] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:06:25.591] [DEBUG] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:06:26.197] [DEBUG] User authentication successful.
+[2026-01-15 14:06:28.279] [ERROR] Failed to allocate memory for buffer.
+[2026-01-15 14:06:28.494] [WARN] Application watchdog heart-beat detected.
+[2026-01-15 14:06:28.913] [WARN] User authentication successful.
+[2026-01-15 14:06:29.401] [INFO] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:06:30.733] [INFO] Application watchdog heart-beat detected.
+[2026-01-15 14:06:31.711] [WARN] TCP/IP handshake completed.
+[2026-01-15 14:06:32.359] [INFO] Application watchdog heart-beat detected.
+[2026-01-15 14:06:32.996] [WARN] Disk I/O latency detected on C: drive.
+[2026-01-15 14:06:33.238] [ERROR] Thread pool reached maximum capacity.
+[2026-01-15 14:06:33.391] [ERROR] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:06:34.975] [DEBUG] Incoming connection from 127.0.0.1.
+[2026-01-15 14:06:35.090] [INFO] Incoming connection from 127.0.0.1.
+[2026-01-15 14:06:35.805] [DEBUG] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:06:35.997] [DEBUG] Disk I/O latency detected on C: drive.
+[2026-01-15 14:06:37.565] [INFO] Failed to allocate memory for buffer.
+[2026-01-15 14:06:37.959] [INFO] Incoming connection from 127.0.0.1.
+[2026-01-15 14:06:38.019] [DEBUG] Incoming connection from 127.0.0.1.
+[2026-01-15 14:06:38.037] [WARN] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:06:38.176] [INFO] Incoming connection from 127.0.0.1.
+[2026-01-15 14:06:38.492] [WARN] Thread pool reached maximum capacity.
+[2026-01-15 14:06:38.834] [ERROR] Failed to allocate memory for buffer.
+[2026-01-15 14:06:39.030] [DEBUG] Disk I/O latency detected on C: drive.
+[2026-01-15 14:06:39.230] [ERROR] Application watchdog heart-beat detected.
+[2026-01-15 14:06:40.552] [DEBUG] TCP/IP handshake completed.
+[2026-01-15 14:06:42.218] [ERROR] Failed to allocate memory for buffer.
+[2026-01-15 14:06:43.026] [WARN] Disk I/O latency detected on C: drive.
+[2026-01-15 14:06:43.077] [DEBUG] User authentication successful.
+[2026-01-15 14:06:43.562] [ERROR] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:06:45.163] [DEBUG] Failed to allocate memory for buffer.
+[2026-01-15 14:06:45.232] [INFO] User authentication successful.
+[2026-01-15 14:06:47.801] [INFO] Incoming connection from 127.0.0.1.
+[2026-01-15 14:06:49.130] [INFO] TCP/IP handshake completed.
+[2026-01-15 14:06:49.694] [ERROR] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:06:49.931] [WARN] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:06:49.960] [ERROR] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:06:50.753] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:06:51.518] [INFO] TCP/IP handshake completed.
+[2026-01-15 14:06:51.586] [WARN] TCP/IP handshake completed.
+[2026-01-15 14:06:51.997] [ERROR] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:06:52.498] [INFO] Failed to allocate memory for buffer.
+[2026-01-15 14:06:53.949] [ERROR] Application watchdog heart-beat detected.
+[2026-01-15 14:06:54.394] [DEBUG] Failed to allocate memory for buffer.
+[2026-01-15 14:06:55.516] [WARN] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:06:56.260] [WARN] Incoming connection from 127.0.0.1.
+[2026-01-15 14:06:56.271] [DEBUG] Incoming connection from 127.0.0.1.
+[2026-01-15 14:06:56.808] [INFO] Failed to allocate memory for buffer.
+[2026-01-15 14:06:57.120] [ERROR] Failed to allocate memory for buffer.
+[2026-01-15 14:06:57.264] [INFO] Incoming connection from 127.0.0.1.
+[2026-01-15 14:06:57.461] [WARN] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:06:57.788] [WARN] Disk I/O latency detected on C: drive.
+[2026-01-15 14:06:58.665] [DEBUG] Incoming connection from 127.0.0.1.
+[2026-01-15 14:06:59.900] [INFO] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:06:59.943] [WARN] User authentication successful.
+[2026-01-15 14:07:00.436] [ERROR] TCP/IP handshake completed.
+[2026-01-15 14:07:01.281] [DEBUG] Failed to allocate memory for buffer.
+[2026-01-15 14:07:02.252] [INFO] Thread pool reached maximum capacity.
+[2026-01-15 14:07:02.400] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:07:02.565] [ERROR] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:07:03.191] [WARN] TCP/IP handshake completed.
+[2026-01-15 14:07:03.538] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:07:03.766] [ERROR] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:07:04.482] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:07:04.852] [WARN] Thread pool reached maximum capacity.
+[2026-01-15 14:07:05.639] [ERROR] Application watchdog heart-beat detected.
+[2026-01-15 14:07:05.815] [WARN] Disk I/O latency detected on C: drive.
+[2026-01-15 14:07:06.898] [ERROR] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:07:06.921] [WARN] Disk I/O latency detected on C: drive.
+[2026-01-15 14:07:07.230] [ERROR] Failed to allocate memory for buffer.
+[2026-01-15 14:07:07.361] [INFO] User authentication successful.
+[2026-01-15 14:07:08.492] [ERROR] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:07:08.908] [INFO] Disk I/O latency detected on C: drive.
+[2026-01-15 14:07:08.943] [INFO] TCP/IP handshake completed.
+[2026-01-15 14:07:09.145] [DEBUG] Incoming connection from 127.0.0.1.
+[2026-01-15 14:07:09.489] [ERROR] Incoming connection from 127.0.0.1.
+[2026-01-15 14:07:09.633] [INFO] Incoming connection from 127.0.0.1.
+[2026-01-15 14:07:10.862] [DEBUG] TCP/IP handshake completed.
+[2026-01-15 14:07:11.198] [WARN] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:07:11.431] [INFO] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:07:12.365] [WARN] Incoming connection from 127.0.0.1.
+[2026-01-15 14:07:13.667] [WARN] Incoming connection from 127.0.0.1.
+[2026-01-15 14:07:13.947] [INFO] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:07:15.012] [INFO] Disk I/O latency detected on C: drive.
+[2026-01-15 14:07:15.883] [DEBUG] Failed to allocate memory for buffer.
+[2026-01-15 14:07:16.286] [ERROR] Application watchdog heart-beat detected.
+[2026-01-15 14:07:17.560] [WARN] Application watchdog heart-beat detected.
+[2026-01-15 14:07:17.878] [WARN] Application watchdog heart-beat detected.
+[2026-01-15 14:07:19.566] [WARN] Disk I/O latency detected on C: drive.
+[2026-01-15 14:07:21.089] [ERROR] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:07:22.400] [ERROR] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:07:22.665] [ERROR] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:07:23.224] [INFO] User authentication successful.
+[2026-01-15 14:07:23.745] [DEBUG] Disk I/O latency detected on C: drive.
+[2026-01-15 14:07:23.796] [ERROR] Incoming connection from 127.0.0.1.
+[2026-01-15 14:07:24.372] [INFO] TCP/IP handshake completed.
+[2026-01-15 14:07:25.107] [INFO] Application watchdog heart-beat detected.
+[2026-01-15 14:07:25.506] [DEBUG] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:07:25.812] [WARN] Disk I/O latency detected on C: drive.
+[2026-01-15 14:07:25.938] [INFO] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:07:26.299] [INFO] Failed to allocate memory for buffer.
+[2026-01-15 14:07:26.486] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:07:26.777] [INFO] User authentication successful.
+[2026-01-15 14:07:27.275] [DEBUG] Incoming connection from 127.0.0.1.
+[2026-01-15 14:07:29.802] [WARN] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:07:30.269] [DEBUG] Disk I/O latency detected on C: drive.
+[2026-01-15 14:07:30.496] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:07:30.722] [WARN] Failed to allocate memory for buffer.
+[2026-01-15 14:07:31.712] [DEBUG] TCP/IP handshake completed.
+[2026-01-15 14:07:32.142] [WARN] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:07:32.769] [ERROR] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:07:33.989] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:07:34.461] [DEBUG] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:07:34.507] [WARN] Disk I/O latency detected on C: drive.
+[2026-01-15 14:07:34.637] [INFO] User authentication successful.
+[2026-01-15 14:07:34.726] [INFO] Thread pool reached maximum capacity.
+[2026-01-15 14:07:35.162] [INFO] Thread pool reached maximum capacity.
+[2026-01-15 14:07:35.525] [DEBUG] Application watchdog heart-beat detected.
+[2026-01-15 14:07:35.996] [INFO] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:07:36.008] [DEBUG] Failed to allocate memory for buffer.
+[2026-01-15 14:07:36.507] [WARN] Thread pool reached maximum capacity.
+[2026-01-15 14:07:36.921] [WARN] Disk I/O latency detected on C: drive.
+[2026-01-15 14:07:37.200] [DEBUG] Disk I/O latency detected on C: drive.
+[2026-01-15 14:07:37.965] [INFO] TCP/IP handshake completed.
+[2026-01-15 14:07:38.170] [ERROR] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:07:38.433] [WARN] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:07:38.533] [INFO] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:07:38.651] [WARN] Application watchdog heart-beat detected.
+[2026-01-15 14:07:39.660] [DEBUG] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:07:39.825] [INFO] TCP/IP handshake completed.
+[2026-01-15 14:07:40.503] [ERROR] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:07:41.540] [ERROR] Disk I/O latency detected on C: drive.
+[2026-01-15 14:07:42.207] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:07:42.982] [ERROR] Thread pool reached maximum capacity.
+[2026-01-15 14:07:43.549] [WARN] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:07:43.680] [ERROR] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:07:43.752] [WARN] Thread pool reached maximum capacity.
+[2026-01-15 14:07:44.376] [INFO] TCP/IP handshake completed.
+[2026-01-15 14:07:44.663] [ERROR] Disk I/O latency detected on C: drive.
+[2026-01-15 14:07:46.406] [ERROR] Application watchdog heart-beat detected.
+[2026-01-15 14:07:48.103] [ERROR] Application watchdog heart-beat detected.
+[2026-01-15 14:07:48.867] [ERROR] TCP/IP handshake completed.
+[2026-01-15 14:07:48.872] [WARN] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:07:49.907] [ERROR] Thread pool reached maximum capacity.
+[2026-01-15 14:07:50.083] [DEBUG] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:07:50.804] [ERROR] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:07:51.474] [WARN] User authentication successful.
+[2026-01-15 14:07:51.581] [DEBUG] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:07:52.277] [INFO] Incoming connection from 127.0.0.1.
+[2026-01-15 14:07:52.560] [DEBUG] TCP/IP handshake completed.
+[2026-01-15 14:07:52.618] [DEBUG] Incoming connection from 127.0.0.1.
+[2026-01-15 14:07:52.960] [INFO] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:07:53.013] [ERROR] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:07:53.197] [WARN] User authentication successful.
+[2026-01-15 14:07:55.450] [INFO] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:07:55.544] [INFO] Disk I/O latency detected on C: drive.
+[2026-01-15 14:07:56.229] [DEBUG] Application watchdog heart-beat detected.
+[2026-01-15 14:07:56.317] [WARN] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:07:56.802] [DEBUG] Disk I/O latency detected on C: drive.
+[2026-01-15 14:07:57.136] [DEBUG] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:07:57.414] [INFO] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:07:57.528] [ERROR] Disk I/O latency detected on C: drive.
+[2026-01-15 14:08:00.890] [WARN] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:08:01.000] [ERROR] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:08:02.701] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:08:02.853] [WARN] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:08:03.840] [WARN] Thread pool reached maximum capacity.
+[2026-01-15 14:08:04.033] [DEBUG] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:08:04.128] [WARN] TCP/IP handshake completed.
+[2026-01-15 14:08:05.619] [INFO] User authentication successful.
+[2026-01-15 14:08:06.375] [WARN] Application watchdog heart-beat detected.
+[2026-01-15 14:08:06.574] [INFO] User authentication successful.
+[2026-01-15 14:08:06.982] [INFO] Thread pool reached maximum capacity.
+[2026-01-15 14:08:07.211] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:08:08.969] [WARN] TCP/IP handshake completed.
+[2026-01-15 14:08:09.229] [WARN] Incoming connection from 127.0.0.1.
+[2026-01-15 14:08:09.304] [DEBUG] Incoming connection from 127.0.0.1.
+[2026-01-15 14:08:09.945] [WARN] Incoming connection from 127.0.0.1.
+[2026-01-15 14:08:10.859] [WARN] Incoming connection from 127.0.0.1.
+[2026-01-15 14:08:11.018] [INFO] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:08:11.865] [ERROR] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:08:12.021] [ERROR] Incoming connection from 127.0.0.1.
+[2026-01-15 14:08:12.118] [WARN] Failed to allocate memory for buffer.
+[2026-01-15 14:08:12.389] [DEBUG] Failed to allocate memory for buffer.
+[2026-01-15 14:08:12.559] [DEBUG] Incoming connection from 127.0.0.1.
+[2026-01-15 14:08:13.247] [ERROR] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:08:13.735] [WARN] Incoming connection from 127.0.0.1.
+[2026-01-15 14:08:15.677] [DEBUG] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:08:15.739] [DEBUG] Disk I/O latency detected on C: drive.
+[2026-01-15 14:08:15.750] [DEBUG] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:08:16.287] [DEBUG] Failed to allocate memory for buffer.
+[2026-01-15 14:08:16.655] [DEBUG] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:08:16.858] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:08:19.196] [INFO] Disk I/O latency detected on C: drive.
+[2026-01-15 14:08:19.499] [DEBUG] Application watchdog heart-beat detected.
+[2026-01-15 14:08:20.385] [DEBUG] User authentication successful.
+[2026-01-15 14:08:20.749] [ERROR] Incoming connection from 127.0.0.1.
+[2026-01-15 14:08:21.134] [WARN] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:08:21.343] [WARN] Disk I/O latency detected on C: drive.
+[2026-01-15 14:08:21.537] [INFO] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:08:21.896] [DEBUG] User authentication successful.
+[2026-01-15 14:08:22.430] [WARN] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:08:22.934] [WARN] Disk I/O latency detected on C: drive.
+[2026-01-15 14:08:22.956] [ERROR] Failed to allocate memory for buffer.
+[2026-01-15 14:08:26.233] [DEBUG] Disk I/O latency detected on C: drive.
+[2026-01-15 14:08:26.635] [DEBUG] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:08:27.161] [ERROR] Disk I/O latency detected on C: drive.
+[2026-01-15 14:08:28.171] [ERROR] Failed to allocate memory for buffer.
+[2026-01-15 14:08:29.164] [ERROR] Application watchdog heart-beat detected.
+[2026-01-15 14:08:29.423] [DEBUG] TCP/IP handshake completed.
+[2026-01-15 14:08:29.517] [WARN] Application watchdog heart-beat detected.
+[2026-01-15 14:08:29.807] [WARN] Incoming connection from 127.0.0.1.
+[2026-01-15 14:08:29.987] [WARN] Thread pool reached maximum capacity.
+[2026-01-15 14:08:32.158] [ERROR] User authentication successful.
+[2026-01-15 14:08:32.452] [INFO] Incoming connection from 127.0.0.1.
+[2026-01-15 14:08:32.473] [INFO] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:08:32.772] [INFO] Disk I/O latency detected on C: drive.
+[2026-01-15 14:08:34.695] [ERROR] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:08:34.749] [WARN] Application watchdog heart-beat detected.
+[2026-01-15 14:08:35.393] [DEBUG] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:08:36.006] [DEBUG] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:08:36.641] [WARN] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:08:36.669] [DEBUG] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:08:37.122] [INFO] Application watchdog heart-beat detected.
+[2026-01-15 14:08:37.495] [DEBUG] Failed to allocate memory for buffer.
+[2026-01-15 14:08:37.897] [ERROR] Application watchdog heart-beat detected.
+[2026-01-15 14:08:38.162] [ERROR] Application watchdog heart-beat detected.
+[2026-01-15 14:08:38.323] [DEBUG] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:08:38.763] [ERROR] Incoming connection from 127.0.0.1.
+[2026-01-15 14:08:39.459] [WARN] User authentication successful.
+[2026-01-15 14:08:39.561] [DEBUG] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:08:42.464] [ERROR] Thread pool reached maximum capacity.
+[2026-01-15 14:08:42.552] [WARN] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:08:42.959] [WARN] Thread pool reached maximum capacity.
+[2026-01-15 14:08:43.108] [INFO] Application watchdog heart-beat detected.
+[2026-01-15 14:08:44.661] [INFO] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:08:44.785] [INFO] Incoming connection from 127.0.0.1.
+[2026-01-15 14:08:44.932] [DEBUG] Incoming connection from 127.0.0.1.
+[2026-01-15 14:08:45.188] [WARN] TCP/IP handshake completed.
+[2026-01-15 14:08:45.211] [ERROR] TCP/IP handshake completed.
+[2026-01-15 14:08:45.422] [INFO] TCP/IP handshake completed.
+[2026-01-15 14:08:45.754] [DEBUG] Application watchdog heart-beat detected.
+[2026-01-15 14:08:45.929] [ERROR] Incoming connection from 127.0.0.1.
+[2026-01-15 14:08:47.374] [INFO] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:08:47.542] [WARN] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:08:47.825] [WARN] Failed to allocate memory for buffer.
+[2026-01-15 14:08:48.682] [ERROR] TCP/IP handshake completed.
+[2026-01-15 14:08:49.937] [DEBUG] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:08:50.258] [DEBUG] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:08:51.353] [ERROR] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:08:52.072] [INFO] User authentication successful.
+[2026-01-15 14:08:52.959] [INFO] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:08:53.086] [WARN] Application watchdog heart-beat detected.
+[2026-01-15 14:08:53.329] [DEBUG] Application watchdog heart-beat detected.
+[2026-01-15 14:08:53.732] [WARN] Failed to allocate memory for buffer.
+[2026-01-15 14:08:53.812] [ERROR] Thread pool reached maximum capacity.
+[2026-01-15 14:08:54.271] [WARN] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:08:54.556] [WARN] TCP/IP handshake completed.
+[2026-01-15 14:08:54.713] [WARN] Incoming connection from 127.0.0.1.
+[2026-01-15 14:08:55.537] [INFO] Failed to allocate memory for buffer.
+[2026-01-15 14:08:56.669] [WARN] Disk I/O latency detected on C: drive.
+[2026-01-15 14:08:57.896] [WARN] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:08:57.959] [INFO] Failed to allocate memory for buffer.
+[2026-01-15 14:08:58.450] [ERROR] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:08:58.539] [ERROR] TCP/IP handshake completed.
+[2026-01-15 14:08:58.842] [ERROR] Incoming connection from 127.0.0.1.
+[2026-01-15 14:08:59.227] [DEBUG] TCP/IP handshake completed.
+[2026-01-15 14:08:59.289] [DEBUG] Failed to allocate memory for buffer.
+[2026-01-15 14:08:59.737] [DEBUG] TCP/IP handshake completed.
+[2026-01-15 14:09:00.437] [INFO] Failed to allocate memory for buffer.
+[2026-01-15 14:09:01.880] [DEBUG] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:09:02.228] [INFO] TCP/IP handshake completed.
+[2026-01-15 14:09:02.771] [DEBUG] TCP/IP handshake completed.
+[2026-01-15 14:09:04.137] [WARN] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:09:04.710] [ERROR] Application watchdog heart-beat detected.
+[2026-01-15 14:09:05.427] [WARN] Failed to allocate memory for buffer.
+[2026-01-15 14:09:05.714] [DEBUG] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:09:05.825] [DEBUG] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:09:06.428] [INFO] Disk I/O latency detected on C: drive.
+[2026-01-15 14:09:08.604] [DEBUG] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:09:08.869] [WARN] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:09:09.065] [DEBUG] Disk I/O latency detected on C: drive.
+[2026-01-15 14:09:09.201] [INFO] User authentication successful.
+[2026-01-15 14:09:09.462] [WARN] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:09:10.033] [WARN] User authentication successful.
+[2026-01-15 14:09:10.555] [WARN] Failed to allocate memory for buffer.
+[2026-01-15 14:09:11.713] [WARN] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:09:13.345] [WARN] Disk I/O latency detected on C: drive.
+[2026-01-15 14:09:14.035] [ERROR] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:09:15.013] [WARN] Incoming connection from 127.0.0.1.
+[2026-01-15 14:09:15.044] [INFO] TCP/IP handshake completed.
+[2026-01-15 14:09:15.851] [ERROR] Failed to allocate memory for buffer.
+[2026-01-15 14:09:17.015] [INFO] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:09:17.467] [DEBUG] User authentication successful.
+[2026-01-15 14:09:19.806] [ERROR] TCP/IP handshake completed.
+[2026-01-15 14:09:20.291] [INFO] Application watchdog heart-beat detected.
+[2026-01-15 14:09:20.719] [ERROR] Thread pool reached maximum capacity.
+[2026-01-15 14:09:20.782] [WARN] Application watchdog heart-beat detected.
+[2026-01-15 14:09:22.710] [WARN] User authentication successful.
+[2026-01-15 14:09:22.987] [DEBUG] TCP/IP handshake completed.
+[2026-01-15 14:09:23.948] [INFO] TCP/IP handshake completed.
+[2026-01-15 14:09:24.336] [WARN] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:09:25.385] [DEBUG] TCP/IP handshake completed.
+[2026-01-15 14:09:26.234] [INFO] Application watchdog heart-beat detected.
+[2026-01-15 14:09:26.521] [ERROR] Thread pool reached maximum capacity.
+[2026-01-15 14:09:27.884] [DEBUG] TCP/IP handshake completed.
+[2026-01-15 14:09:28.463] [ERROR] Disk I/O latency detected on C: drive.
+[2026-01-15 14:09:29.824] [INFO] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:09:31.079] [DEBUG] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:09:31.298] [WARN] Application watchdog heart-beat detected.
+[2026-01-15 14:09:31.439] [DEBUG] Disk I/O latency detected on C: drive.
+[2026-01-15 14:09:31.900] [DEBUG] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:09:32.052] [DEBUG] Disk I/O latency detected on C: drive.
+[2026-01-15 14:09:32.292] [DEBUG] TCP/IP handshake completed.
+[2026-01-15 14:09:32.833] [WARN] User authentication successful.
+[2026-01-15 14:09:32.939] [WARN] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:09:33.150] [WARN] Application watchdog heart-beat detected.
+[2026-01-15 14:09:33.437] [INFO] TCP/IP handshake completed.
+[2026-01-15 14:09:33.562] [ERROR] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:09:33.915] [ERROR] Incoming connection from 127.0.0.1.
+[2026-01-15 14:09:33.976] [ERROR] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:09:34.445] [INFO] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:09:34.804] [ERROR] TCP/IP handshake completed.
+[2026-01-15 14:09:35.200] [DEBUG] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:09:35.933] [INFO] Application watchdog heart-beat detected.
+[2026-01-15 14:09:36.165] [DEBUG] User authentication successful.
+[2026-01-15 14:09:36.217] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:09:36.996] [INFO] Failed to allocate memory for buffer.
+[2026-01-15 14:09:37.459] [DEBUG] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:09:37.920] [ERROR] Application watchdog heart-beat detected.
+[2026-01-15 14:09:40.128] [INFO] Failed to allocate memory for buffer.
+[2026-01-15 14:09:40.705] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:09:40.842] [DEBUG] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:09:40.961] [WARN] Failed to allocate memory for buffer.
+[2026-01-15 14:09:42.000] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:09:42.849] [ERROR] Thread pool reached maximum capacity.
+[2026-01-15 14:09:43.599] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:09:45.362] [INFO] Disk I/O latency detected on C: drive.
+[2026-01-15 14:09:46.248] [INFO] TCP/IP handshake completed.
+[2026-01-15 14:09:47.547] [DEBUG] Thread pool reached maximum capacity.
+[2026-01-15 14:09:48.031] [WARN] Pointer address 0x00FF23A1 accessed.
+[2026-01-15 14:09:48.169] [INFO] User authentication successful.
+[2026-01-15 14:09:48.924] [WARN] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:09:48.990] [DEBUG] Application watchdog heart-beat detected.
+[2026-01-15 14:09:49.266] [WARN] Incoming connection from 127.0.0.1.
+[2026-01-15 14:09:49.542] [ERROR] Module 'Win32_NetworkAdapter' initialized.
+[2026-01-15 14:09:49.913] [INFO] Failed to allocate memory for buffer.
+[2026-01-15 14:09:50.757] [WARN] Incoming connection from 127.0.0.1.
+[2026-01-15 14:09:51.494] [INFO] Thread pool reached maximum capacity.
+[2026-01-15 14:09:53.583] [WARN] User authentication successful.
+[2026-01-15 14:09:54.577] [WARN] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:09:56.078] [INFO] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:09:57.091] [INFO] Thread pool reached maximum capacity.
+[2026-01-15 14:09:57.438] [DEBUG] Registry key 'HKLM\Software\App' modified.
+[2026-01-15 14:09:59.612] [ERROR] Failed to allocate memory for buffer.
+[2026-01-15 14:09:59.922] [DEBUG] Failed to allocate memory for buffer.

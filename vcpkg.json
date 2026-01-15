@@ -1,0 +1,12 @@
+{
+  "name": "regex-grep",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "icu",
+    {
+      "name": "spdlog",
+      "features":["wchar"]
+    }
+    
+  ]
+}

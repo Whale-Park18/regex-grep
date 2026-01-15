@@ -1,0 +1,19 @@
+{
+    "version": "0.1.0",
+    "configurations": [
+        {
+            "name": "Windows Debug",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${command:cmake.launchTargetPath}",
+            "args": [
+                "${workspaceFolder}\\test\\dummy_log.txt",
+                "${workspaceFolder}\\test\\filtered_log.txt",
+                "\\[\\d{4}-\\d{2}-\\d{2} 14:05:\\d{2}\\.\\d{3}\\]"
+            ],
+            "stopAtEntry": true,
+            "cwd": "${workspaceFolder}",
+            "externalConsole": false,
+        }
+    ]
+}
