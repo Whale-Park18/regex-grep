@@ -1,0 +1,36 @@
+name: C++ CMake Ninja Release
+on:
+    push:
+        tags:
+            - 'v*.*.*'
+
+env:
+  VCPKG_DEFAULT_BINARY_CACHE: ${{ github.workspace }}/vcpkg_cache
+
+jobs:
+    build:
+        runs-on: windows-latest
+        steps:
+            - uses: actions/checkout@v4
+            
+            - name: Restore vcpkg cache
+              uses: actions/cache@v4
+              with:
+                path: ${{ env.VCPKG_DEFAULT_BINARY_CACHE }}
+                key: ${{ runner.os }}-vcpkg-${{ hashFiles('vcpkg.json') }}
+                restore-keys: |
+                  ${{ runner.os }}-vcpkg-
+
+            - name: Create vcpkg cache directory
+              run: New-Item -ItemType Directory -Force -Path $env:VCPKG_DEFAULT_BINARY_CACHE
+
+            - name: Install Ninja
+              run: choco install ninja
+            - name: Install CMake
+              run: choco install cmake
+
+            - name: Configure
+              run: cmake -S . -B build -G "Ninja" -DCMAKE_BUILD_TYPE=Release -DCMAKE_TOOLCHAIN_FILE="$env:VCPKG_INSTALLATION_ROOT/scripts/buildsystems/vcpkg.cmake" -DVCPKG_TARGET_TRIPLET=x64-windows
+
+            - name: Build
+              run: cmake --build build --config Release
